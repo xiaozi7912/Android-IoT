@@ -1,0 +1,5 @@
+include ':app-home', ':bmp180', ':app-mobile', ':module-framework'
+project(':app-home').projectDir = new File('home/app')
+project(':bmp180').projectDir = new File('home/bmp180')
+project(':app-mobile').projectDir = new File('mobile/app')
+project(':module-framework').projectDir = new File('home/xiaozi-framework/module-framework')

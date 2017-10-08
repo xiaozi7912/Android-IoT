@@ -1,0 +1,6 @@
+[submodule "home"]
+	path = home
+	url = git@github.com:xiaozi7912/Android.IoT.Home.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:xiaozi7912/Android.IoT.Mobile.git
